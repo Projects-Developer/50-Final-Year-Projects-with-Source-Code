@@ -39,11 +39,11 @@
 31. Full Stack Blockchain Voting System Project	                :https://youtu.be/ohc-LvRjfVg?si=kA8ywmT_qGLgIz11
 32. Fake Product Identification by QR Code Using Blockchain	    :https://youtu.be/8nVStd41gxE?si=5VKAWbxy91Hqp4r7
 33. Blockchain Communication System	                            :https://youtu.be/Kt8NHdWnvdk?si=6_0F8z_lcSqoEUT3
-34. Electronic Health Record Using Blockchain	`                 :https://youtu.be/akHpUgWmcE8?si=23YZ6GgvuDHHvlEw
-35. Land Registry Using Blockchain technology	                  :https://youtu.be/0x-fnZXXrD0?si=2EXgO3CZtwv577T3
+34. Electronic Health Record Using Blockchain	`               :https://youtu.be/akHpUgWmcE8?si=23YZ6GgvuDHHvlEw
+35. Land Registry Using Blockchain technology	                :https://youtu.be/0x-fnZXXrD0?si=2EXgO3CZtwv577T3
 36. Blockchain Blood Bank Management System Project	            :https://youtu.be/jVJFHrRVMeE?si=9alGZEaYAlOKkmO7
 37. Bank Record Storage System Using Blockchain	                :https://youtu.be/ZH3ySXHGrPE?si=3Cw8_86L34jAdvNy
-38. Ethereum Explorer Project	                                  :https://youtu.be/buJ4Sg7At1o?si=SPHNwx24nyGiJplg
+38. Ethereum Explorer Project	                                :https://youtu.be/buJ4Sg7At1o?si=SPHNwx24nyGiJplg
 39. Web3.js Blockchain Project	                                :https://youtu.be/kWK-T4go0qo?si=aJyiEotBwkwVymvu
 40. Attendance System Using Blockchain Project	                :https://youtu.be/wdtI2qsQptc?si=LzTyv-jDydS64Q0a
 41. Etherium Explorer Project Blockchain Project                :https://youtu.be/buJ4Sg7At1o?si=40tzimbqUBz8PK6B
@@ -51,4 +51,9 @@
 43. Air Pollution AQI Website Project                           :https://youtu.be/QGF0D7d53i4?si=VUc_BCqRg3BYXVHY
 44. Fashion Ecommerce Website                                   :https://youtu.be/TRLH8fG-uyU?si=uTIwULIG4uMDSZaR
 45. URL Phishing Detection System                               :https://youtu.be/nDxP_lJmVk4?si=0ttLR4zsoJani-ay
+46. Super Cipher Project	                                    :https://youtu.be/mbGBaiqdKnw?si=pKSMqqXdeOdYDH-Q
+47. Cryptography Communication System Project	                :https://youtu.be/DcmO-Xe7GVk?si=kQpKfx0JYrZLCIUa
+48. Steganography Project FULL STACK	                        :https://youtu.be/wVDSMBJMG0Q?si=bHHHdWONtsFTyLY6
+49. Triple DES project	                                        :https://youtu.be/Z8qna_22WTU?si=8e5hsoFYNdM_xUha
+50. AES Communication Security Project	                        :https://youtu.be/KAmrEceJllM?si=YCyvT6C5WOvJp01m
     
