@@ -85,4 +85,4 @@
 
 ### Website : https://www.finalproject.in/
 
-### Youtube Link: https://www.youtube.com/@computerscienceproject
+### Youtube Channel: https://www.youtube.com/@computerscienceproject
